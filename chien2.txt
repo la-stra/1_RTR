@@ -1,0 +1,22 @@
+| Race                 | Enfants | Sportif | Logement    | Taille |
+| -------------------- | ------- | ------- | ----------- | ------ |
+| Papillon             | oui     | oui     | appartement | petit  |
+| Caniche              | oui     | oui     | appartement | moyen  |
+| Irish Setter         | oui     | oui     | appartement | grand  |
+| Beagle               | oui     | oui     | maison      | petit  |
+| Border Collie        | oui     | oui     | maison      | moyen  |
+| Golden Retriever     | oui     | oui     | maison      | grand  |
+| Carlin               | oui     | non     | appartement | petit  |
+| Puli                 | oui     | non     | appartement | moyen  |
+| Leonberg             | oui     | non     | appartement | grand  |
+| Tibetan Spaniel      | oui     | non     | maison      | petit  |
+| Clumber Spaniel      | oui     | non     | maison      | moyen  |
+| Newfoundland         | oui     | non     | maison      | grand  |
+| Jack Russell Terrier | non     | oui     | appartement | petit  |
+| Norwegian Elkhound   | non     | oui     | appartement | moyen  |
+| Weimaraner           | non     | oui     | appartement | grand  |
+| Manchester Terrier   | non     | oui     | maison      | petit  |
+| Saluki               | non     | oui     | maison      | moyen  |
+| Husky Sibérien       | non     | oui     | maison      | grand  |
+| Chihuahua            | non     | non     | appartement | petit  |
+| Schipperke           | non     | non     | appartement | moyen  |
